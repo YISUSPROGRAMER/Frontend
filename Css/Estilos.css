@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Header */
+.BarraAcceso
+{
+	padding:15px;
+	background:#0C5991;
+}
+
+.lista a
+{
+	padding:15px;
+	color:#fff;
+	text-decoration:none;
+	margin:0;
+}
+	.lista a:hover
+	{
+		background-color:#006;
+	}
+.Encabezado
+{
+	padding:10px;
+}
+/* Nav */
+.nav
+{
+	height:20%;
+	
+}
+
+/*NombreHotel*/
+.NombreHotel
+{
+	font-family:'Anton', sans-serif;
+	font-size: 100px;
+	font-weight:bolder;
+
+}
+.letras
+	{
+	font-size: 12px;	
+	}
+
+
+@media (min-width:700px) {
+.letras
+	{
+	font-size: 22px;	
+	}
+
+}
